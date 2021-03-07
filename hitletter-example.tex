@@ -1,0 +1,40 @@
+% !TeX program = xelatex 
+\documentclass[blue,harbin,pagenum,12pt]{hitletter}
+\usepackage{lipsum} % 引用乱数假文宏包
+
+% 颜色可选为blue, red, black之一
+% 校区可选为harbin, shenzhen, weihai之一
+% 可添加pagenum参数，添加即有页码，去掉即不显示页码
+
+\begin{document}
+
+HIT Letter是依照哈尔滨工业大学三个校区制作的\LaTeX 信纸模板，主要文件是hitletter.cls以及对应的校名矢量图像。制作本模板的目的是方便\TeX 用户撰写带有哈工大标志的文档/信件，免去自行设置的繁琐过程，同时尽可能符合学校的相关规定，使生成的文件更加正式、美观。
+
+模板提供三个校区的信纸布局——harbin、shenzhen、weihai——以供用户根据不同需要选择。同时提供了页面配色功能，提供三种配色方案——blue、red、black。
+
+模板使用方式简介：
+\begin{verbatim}
+	\documentclass[<COLOR>,<THEME>,<OTHER>]{hitletter}
+\end{verbatim}
+
+
+模板的实现简介：
+
+模板基于article文档类定制，使用xeCJK提供中文支持，使用graphicx+tikz+calc宏包绘制信纸部件，使用color宏包实现配色调整，使用geometry+everypage+fancyhdr宏包控制页面输出。
+
+按照学校常用颜色，配色只设置了蓝色、红色和黑色，用户如果确实需要调整配色，可以自行修改配色方案。
+
+注意，由于实现方式的原因，需要进行2次甚至更多次编译才能够输出最终页面。
+
+模板的下载地址:
+https://github.com/demerzelsun12/hitletter
+
+哈尔滨工业大学校徽校名图片（hithrb.pdf 等）的版权归哈尔滨工业大学所有。
+
+hitletter.cls 文档类与相关附属文件使用 MIT 协议授权。
+
+~
+
+\lipsum[1-5]
+
+\end{document}

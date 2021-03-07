@@ -47,6 +47,7 @@ HIT Letter是依照哈尔滨工业大学三个校区制作的 LaTeX 信纸模板
 | hitletter-weihai-blue-example.pdf | 威海校区蓝色主题示例信纸 |
 | .gitignore| 忽略文件（开发用） |
 | LICENSE | 模板采用协议 |
+| README.md | 使用说明（本文件） |
 
 # 协议说明
 

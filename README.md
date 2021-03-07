@@ -51,7 +51,7 @@ HIT Letter是依照哈尔滨工业大学三个校区制作的 LaTeX 信纸模板
 
 # 协议说明
 
-哈尔滨工业大学校徽校名图片（hithrb.pdf 等）的版权归哈尔滨工业大学所有。
+哈尔滨工业大学校徽校名图片（[hithrb.pdf](./figures/hithrb.pdf) , [hitsz.pdf](./figures/hitsz.pdf), [hitwh.pdf](./figures/hitwh.pdf)）的版权归哈尔滨工业大学所有。
 
 hitletter.cls 文档类与相关附属文件使用 MIT 协议授权。
 

@@ -27,6 +27,11 @@ HIT Letter是依照哈尔滨工业大学三个校区制作的 LaTeX 信纸模板
 
 # 如何使用
 
+为方便国内不能正常访问 github 的用户，本模板提供 github 和 gitee 两个下载地址。
+
+- github地址：[https://github.com/demerzelsun12/hitletter.git](https://github.com/demerzelsun12/hitletter.git)
+- gitee地址：[https://gitee.com/demerzel/hitletter.git](https://gitee.com/demerzel/hitletter.git)
+
 如果会使用 LaTeX 的话，根据选项正常编译[hitletter-example.tex](./hitletter-example.tex)文件即可。
 
 本模板也考虑到部分用户对 LaTeX 不熟悉，所以也提供了三个校区无页码的空白纸，可供打印。

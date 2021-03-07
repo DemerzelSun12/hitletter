@@ -10,9 +10,11 @@ HIT Letter是依照哈尔滨工业大学三个校区制作的 LaTeX 信纸模板
 
 模板使用方式简介：
 
+```tex
 \begin{verbatim}
     \documentclass[<COLOR>,<THEME>,<PAGENUM>,<OTHER>]{hitletter}
 \end{verbatim}
+```
 
 
 模板的实现简介：

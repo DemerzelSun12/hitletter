@@ -39,17 +39,17 @@ HIT Letter是为哈尔滨工业大学三个校区制作的 LaTeX 信纸模板，
 # 各文件说明
 
 | 文件(夹)名          | 用途 |
-|:----:|:----:|
+|:----|:----|
 | figures/ | 标志引用文件夹 |
-| hitletter.cls | 模板类文件 |
-| hitletter-example.tex | 示例文档主文件 |
-| hitletter-example.pdf | 示例文档 |
-| hitletter-harbin-blue-empty.pdf | 本部蓝色主题空白信纸 |
-| hitletter-harbin-blue-example.pdf | 本部蓝色主题示例信纸 |
-| hitletter-shenzhen-blue-empty.pdf | 深圳校区蓝色主题空白信纸 |
-| hitletter-shenzhen-blue-example.pdf | 深圳校区蓝色主题示例信纸 |
-| hitletter-weihai-blue-empty.pdf | 威海校区蓝色主题空白信纸 |
-| hitletter-weihai-blue-example.pdf | 威海校区蓝色主题示例信纸 |
+| [hitletter.cls](./hitletter.cls) | 模板类文件 |
+| [hitletter-example.tex](./hitletter-example.tex) | 示例文档主文件 |
+| [hitletter-example.pdf](./hitletter-example.pdf) | 示例文档 |
+| [hitletter-harbin-blue-empty.pdf](./hitletter-harbin-blue-empty.pdf) | 本部蓝色主题空白信纸 |
+| [hitletter-harbin-blue-example.pdf](./hitletter-harbin-blue-example.pdf) | 本部蓝色主题示例信纸 |
+| [hitletter-shenzhen-blue-empty.pdf](./hitletter-shenzhen-blue-empty.pdf) | 深圳校区蓝色主题空白信纸 |
+| [hitletter-shenzhen-blue-example.pdf](./hitletter-shenzhen-blue-example.pdf) | 深圳校区蓝色主题示例信纸 |
+| [hitletter-weihai-blue-empty.pdf](./hitletter-weihai-blue-empty.pdf) | 威海校区蓝色主题空白信纸 |
+| [hitletter-weihai-blue-example.pdf](./hitletter-weihai-blue-example.pdf) | 威海校区蓝色主题示例信纸 |
 | .gitignore| 忽略文件（开发用） |
 | LICENSE | 模板采用协议 |
 | README.md | 使用说明（本文件） |

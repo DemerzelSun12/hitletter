@@ -1,4 +1,4 @@
-[![Build LaTeX document](https://github.com/DemerzelSun12/hitletter/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/DemerzelSun12/hitletter/actions/workflows/blank.yml)
+[![Build hitletter](https://github.com/DemerzelSun12/hitletter/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/DemerzelSun12/hitletter/actions/workflows/blank.yml)
 # hitletter
 
 # What's hitletter

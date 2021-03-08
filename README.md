@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/demerzelsun12/hitletter/workflows/Build LaTeX document/badge.svg)]
 # hitletter
 
 # What's hitletter
